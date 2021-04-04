@@ -1,0 +1,5 @@
+serial.writeLine("Hello")
+serial.writeString("x=")
+serial.writeNumber(20)
+serial.writeLine("")
+serial.writeValue("x", 0)
